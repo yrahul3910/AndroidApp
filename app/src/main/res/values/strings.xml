@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectApp</string>
+    <string-array name="choices">
+        <item>Technician</item>
+        <item>User</item>
+    </string-array>
+</resources>
